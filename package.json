@@ -1,0 +1,14 @@
+{
+  "name": "namadhu-karangal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  }
+}
